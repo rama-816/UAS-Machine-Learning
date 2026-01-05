@@ -25,4 +25,4 @@ pip install -r requirements.txt
 
 ---
 
-**Laporan ini disusun sebagai pemenuhan tugas mata kuliah Machine Learning. Semua kode dan data tersedia secara terbuka untuk tujuan akademik.**
+**Laporan ini disusun sebagai pemenuhan UAS mata kuliah Machine Learning. Semua kode dan data tersedia secara terbuka untuk tujuan akademik.**
